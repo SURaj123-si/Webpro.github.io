@@ -1,0 +1,22 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 07 Aug 2025 15:20:50 at https://wordpressboss.com/cp/wize-demo/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://wordpressboss.com/cp/wize-demo/index.html -O1 "C:\My Web Sites\wize site" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/assets/fonts/remixicon.woff?t=1708865856766 (from https://wordpressboss.com/cp/wize-demo/assets/fonts/remixicon.css)
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/assets/fonts/remixicon.ttf?t=1708865856766 (from https://wordpressboss.com/cp/wize-demo/assets/fonts/remixicon.css)
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/assets/fonts/remixicon.svg?t=1708865856766 (from https://wordpressboss.com/cp/wize-demo/assets/fonts/remixicon.css)
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/single-blog.html (from https://wordpressboss.com/cp/wize-demo/blog.html)
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/assets/images/blog/blog1.jpg (from https://wordpressboss.com/cp/wize-demo/blog.html)
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/assets/images/blog/blog2.jpg (from https://wordpressboss.com/cp/wize-demo/blog.html)
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/assets/images/blog/blog3.jpg (from https://wordpressboss.com/cp/wize-demo/blog.html)
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/assets/images/projects/single-project1.jpg (from https://wordpressboss.com/cp/wize-demo/single-project.html)
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/assets/images/projects/single-project2.jpg (from https://wordpressboss.com/cp/wize-demo/single-project.html)
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/assets/images/projects/single-project3.jpg (from https://wordpressboss.com/cp/wize-demo/single-project.html)
+15:21:44	Error: 	"Too Many Requests" (429) at link https://wordpressboss.com/cp/wize-demo/assets/images/projects/single-project4.jpg (from https://wordpressboss.com/cp/wize-demo/single-project.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 54 seconds : 57 links scanned, 45 files written (2246474 bytes overall) [1161563 bytes received at 21510 bytes/sec], 1575359 bytes transferred using HTTP compression in 31 files, ratio 29%, 28.5 requests per connection
+(11 errors, 0 warnings, 0 messages)
